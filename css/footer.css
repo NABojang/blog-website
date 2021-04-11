@@ -1,0 +1,12 @@
+#footer{
+  display: flex;
+  background-color: #09a7a1;
+  align-items: center;
+  text-align: center;
+  padding: 3%;
+}
+.fab-icons{
+  margin-left: 7%;
+  display: inline-block;
+  font-size: 40px;
+}
